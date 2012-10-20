@@ -1,0 +1,7 @@
+name: Games
+main: me.jarod.AC.Games.Main
+version: 0.1
+author: iiSnipez
+commands:
+  team:
+    description: Choose team
